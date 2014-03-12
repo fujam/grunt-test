@@ -1,0 +1,34 @@
+{
+  "name": "Grunt-test",
+  "version": "0.1.0",
+  "author": "Mike Cunsolo",
+  "private": true,
+  "devDependencies": {
+    "grunt": "~0.4.3",
+    "grunt-contrib-cssmin": "*",
+    "grunt-contrib-sass": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-cssc": "*",
+    "grunt-htmlhint": "*",
+    "grunt-contrib-concat": "~0.3.0",
+    "matchdep": "*"
+  },
+  "description": "grunt-test ==========",
+  "main": "gruntfile.js",
+  "dependencies": {
+    "grunt": "~0.4.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fujam/grunt-test.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fujam/grunt-test/issues"
+  },
+  "homepage": "https://github.com/fujam/grunt-test"
+}
